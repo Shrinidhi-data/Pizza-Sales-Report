@@ -136,8 +136,6 @@ This dashboard was built using **Power BI** and showcases:
 | Operations | Align staffing with peak hours                                 |
 | Marketing  | Personalize offers, seasonal promotions                        |
 
-Let me know if you'd like this formatted into a slide or summary report.
-
 ---
 
 ## 🛠 Tools Used
