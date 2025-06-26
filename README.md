@@ -66,8 +66,8 @@ This dashboard was built using **Power BI** and showcases:
 
 ## 📎 Files
 
-- `pizza_sales_report.pbix` 
-- `report-preview.png` 
+- `pizza_sales_report.pbix` - https://github.com/Shrinidhi-data/Pizza-Sales-Report/blob/main/pizza_sales_report.pbix
+- `report-preview.png` - https://github.com/Shrinidhi-data/Pizza-Sales-Report/blob/main/report-preview.PNG
 
 ---
 
